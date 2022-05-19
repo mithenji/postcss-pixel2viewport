@@ -1,6 +1,6 @@
 {
   "name": "postcss-pixel2viewport",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin Pixel to viewport conversion",
   "keywords": ["postcss", "css", "postcss-plugin", "postcss-pixel2viewport"],
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "mithenji <jihonghuan20@gmail.com>",
   "license": "MIT",
-  "repository": "git@github.com:mithenjji/postcss-pixel2viewport",
+  "repository": "git@github.com:mithenji/postcss-pixel2viewport.git",
   "engines": {
     "node": ">=12.0.0"
   },
